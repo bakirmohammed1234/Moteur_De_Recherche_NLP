@@ -27,8 +27,11 @@ Elle offre des fonctionnalités de **tokenisation**, **racinisation (stemming)**
 
 ** Méthode : POST **
 URL : http://localhost:8080/text/mining
+
 Headers : Content-Type: text/plain; charset=UTF-8
+
 Body (raw, Text) :  أحد القضاة العاملين بوزارة العدل
+
 Exemple de réponse : 
 <img width="1336" height="732" alt="image" src="https://github.com/user-attachments/assets/84250b63-4b23-48ed-a5f6-891c8353362e" />
 <img width="1366" height="703" alt="image" src="https://github.com/user-attachments/assets/b688401e-aad2-4ab4-8009-14e24c0869d2" />
