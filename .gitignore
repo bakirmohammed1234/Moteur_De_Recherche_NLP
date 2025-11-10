@@ -1,0 +1,20 @@
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+.gitattributes
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies and Libraries
+/.mvn
+src/lib/
+/Corpus
+mvnw
+
